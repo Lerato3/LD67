@@ -1,1 +1,1 @@
-# LD67
+# LD67 Journal download
